@@ -15,4 +15,5 @@ theme:
     repo: fontawesome/brands/git
  
 plugins:
-  - macros  
+  - macros
+  - mkdocs-jupyter
