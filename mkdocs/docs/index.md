@@ -7,7 +7,7 @@ hide:
 
 # **Focus Low-tech** au Forum des Usages Coopératifs de Brest
 
-Suite à de nombreuses présentations, échanges et discussions. Nous vous proposons, ici, de réunir nos prises de notes, photos et autres ressources en tous genres. Vous pouvez facilement partager vos prises de notes, par le biais des Pads disponibles dans la partie : Session.
+Suite à de nombreuses présentations, échanges et discussions. Nous vous proposons, ici, de réunir nos prises de notes, photos et autres ressources en tous genres. Vous pouvez facilement partager vos prises de notes, par le biais des Pads disponibles dans la partie : [Les sessions Low-tech](./sessions/mercredi_06072022).
 
 ---
 

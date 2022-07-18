@@ -12,7 +12,7 @@ theme:
   language: fr
   palette:
     scheme: default
-    primary: blue
+    primary: green
 
 
 # REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
@@ -31,7 +31,6 @@ nav:
   - Coopérons:
       - La documentation collaborative ?: informations/premiers_pas.md
       - Konnect: informations/konnect.md
-      - Test Jupyter: informations/EmplacementSoleil.ipynb
   - Les sessions Low-tech:
       - sessions/mercredi_06072022.md
       - sessions/jeudi_07072022.md
