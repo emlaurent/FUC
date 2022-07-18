@@ -1,0 +1,56 @@
+# SITE INFORMATIONS
+
+site_name: FUC - Sessions Low-tech - Documentation
+site_author: Nicolas Brémond
+site_description: >-
+  Compte rendu des sessions Low-tech du 10e Forum des Usages Coopératifs de Brest.
+
+
+# LANGUE ET COULEUR
+
+theme:
+  language: fr
+  palette:
+    scheme: default
+    primary: blue
+
+
+# REPERTOIRE GIT DE VOTRE PROJET (GitHUB uniquement pour le moment)
+
+repo_url: https://github.com/Konsilion/FUC
+repo_name: FUC/
+edit_uri: blob/master/mkdocs/docs
+
+
+# TOUTE VOTRE DOCUMENTATION
+
+nav:
+  - Accueil: index.md
+  - Le FUC ?:
+      - Forum des Usages Coopératifs: informations/presentation_FUC.md
+  - Coopérons:
+      - La documentation collaborative ?: informations/premiers_pas.md
+      - Konnect: informations/konnect.md
+  - Les sessions Low-tech:
+      - sessions/mercredi_06072022.md
+      - sessions/jeudi_07072022.md
+      - sessions/vendredi_08072022.md
+  - Plus d'informations:
+      - informations/pad.md
+      - informations/chat.md
+  - Contacts: informations/contacts.md
+
+
+# MENTIONS LEGALES
+
+copyright: Ce document est régi par les termes de la licence juridique Creative Commons CC-BY-SA 4.0 - Konsilion ingénieries - Basé sur MkDocs
+
+
+# LIENS EXTERNES
+
+extra:
+  generator: false
+  social :
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/konsilion/
+      name: Retrouvez-nous sur Linkedin

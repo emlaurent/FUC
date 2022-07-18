@@ -1,0 +1,18 @@
+INHERIT: ./env
+
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - search.highlight
+    - search.share
+    - search.suggest 
+  icon: 
+    repo: fontawesome/brands/git
+ 
+plugins:
+  - macros  
